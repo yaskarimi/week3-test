@@ -1,2 +1,4 @@
 # week3-test
 project of the week 3 of git course
+I am editing the README file. Adding some more details about the project description.
+
